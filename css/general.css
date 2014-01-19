@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	background-color: #330319;
+}
+  
+body {
+	margin: 100px 280px;
+	padding: 100px; 
+	text-align: left; 
+} 
+      
+p,	
+li {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 1.5em;
+	line-height: 1.5em;
+	color:#FFF;
+}
+      
+ul,  
+
+#page { 
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	background-color: #94154f;
+	background-position: center center;
+}
+
+
+cite {  
+	font-family: Arial, Helvetica, sans-serif;
+	color: #f4a3bf;
+	text-align: right;
+	font-size: 1.5em;
+	float: right;
+	
+}
+
+.bqstart {
+     float: left;
+	 height: 45px;
+	 margin-top: -80px;
+	 padding-top: 45px;
+	 margin-left: -50px;
+	 margin-bottom: -50px;
+	 font-size: 800%;
+	 font-family:Arial, Helvetica, sans-serif;
+     color: #b92c5c;
+	
+ }
+
+ .bqend {
+     float: right;
+	 margin-top: -150px;
+	 margin-right: -210px;
+	 padding-top: 80px;
+	 font-size: 800%;
+	 font-family:Arial, Helvetica, sans-serif;
+     color: #b92c5c;
+	 
+ }
